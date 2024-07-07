@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalr-excelr&label=Profile%20views&color=0e75b6&style=flat" alt="komalr-excelr" /> </p>
 
-- 🌱 I’m currently learning **Frameworks,python**
+- 🌱 I’m currently learning **Frameworks,python,HTML,CSS,JAVA Script**
 
 - 📫 How to reach me **raut.komal2808@gmail.com**
 
